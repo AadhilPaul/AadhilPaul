@@ -51,9 +51,8 @@ A browser-based Morse code translator built with vanilla JavaScript.
 
 **HTML · CSS · JavaScript**
 
-## 🌱 Currently
+##  Currently
 
-* Building and improving **XI Daily**
 * Learning **application security and web pentesting**
 * Improving my backend and system design skills
 * Exploring Linux and developer tooling
